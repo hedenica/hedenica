@@ -1,16 +1,16 @@
-### Hi there 👋
+# :octocat: Hedênica Morais
 
-<!--
-**hedenica/hedenica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/hedenica)](https://github.com/hedenica)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hedenica/)](https://www.linkedin.com/in/hedenica/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hedenica@gmail.com)](mailto:hedenica@gmail.com)
 
-Here are some ideas to get you started:
+## Heeey, tudo bem?  👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Hedênica, sou Desenvolvedora Front-end há poucos meses, me dedico e estudo diariamente com muito foco e empenho para entender um pouco mais das tecnologias do meu dia-a-dia e fortalecer as minhas bases.
+
+Comecei a estudar programação desde janeiro/2020, consegui meu primeiro emprego na área em abril/2020. Não é fácil tentar acompanhar devs mais experientes, mas tento fazer minha parte. **#vaidarcerto**😉
+
+- 👩‍💼 Atuo Dev Front-end Junior no **SAS PLATAFORMA DE EDUCAÇÃO 💙**
+- 👩‍🎓 MBA em Business Intelligence & Analytics, na **FIAP**
+- ⚛ Techs: React.js, React Native, Node.js, TypeScript...
+- 📚 Estudando através do bootcamp da **Rocketseat**, do curso React Ninja com o **Fernando Daciuk**, Desenvolvimento Web com **Cod3r**, Javascript na **Origamid**
