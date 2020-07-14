@@ -19,7 +19,7 @@ Comecei a estudar programação desde janeiro/2020, consegui meu primeiro empreg
 - 👩‍🎓 MBA em Business Intelligence & Analytics, na **FIAP**
 - ⚛ Techs: React.js, React Native, Node.js, TypeScript...
 - 📚 Estudando através do bootcamp da **Rocketseat**, do curso React Ninja com o **Fernando Daciuk**, Desenvolvimento Web com **Cod3r**, Javascript na **Origamid**</td>
-    <td><b style="width: 300px"><img src="undraw_proud_coder_7ain.svg"/></b></td>
+    <td><img style="width: 400px" src="./undraw_proud_coder_7ain.svg"/></td>
  </tr>
 </table>
 
