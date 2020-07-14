@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hedenica/)](https://www.linkedin.com/in/hedenica/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hedenica@gmail.com)](mailto:hedenica@gmail.com)
 
-<img align="right" width="350" height="350" src="./public/undraw_proud_coder_7ain.svg">
+<img align="right" width="350" height="350" src="https://www.lynnefinnigan.com/main-asset.svg">
 
 ## Heeey, tudo bem?  👋
 
@@ -16,5 +16,3 @@ Comecei a estudar programação desde janeiro/2020, consegui meu primeiro empreg
 - 👩‍🎓 MBA em Business Intelligence & Analytics, na **FIAP**
 - ⚛ Techs: React.js, React Native, Node.js, TypeScript...
 - 📚 Estudando através do bootcamp da **Rocketseat**, do curso React Ninja com o **Fernando Daciuk**, Desenvolvimento Web com **Cod3r**, Javascript na **Origamid**
-
-
