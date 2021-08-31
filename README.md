@@ -1,6 +1,6 @@
 ## Heeey, how u doing?  👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" width="350px" align="right" alt="laptop">
 
 <p align="left"> 
   My name is Hedênica and I'm a <strong>Frontend Software Engineer</strong>.<br>
@@ -30,7 +30,7 @@
 
 
 <p align="left">
-  🌏 Where to find me: ⤵️
+  🌏  Where to find me: ⤵️
 </p>
 
 <p align="left">
