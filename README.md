@@ -1,18 +1,36 @@
-## Heeey, tudo bem?  👋
+## Heeey, how u doing?  👋
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Heey, meu nome é Hedênica, sou <strong>Frontend Developer!</strong>.<br>
+  My name is Hedênica and I'm a <strong>Frontend Software Engineer</strong>.<br>
   
-- 💼 Atuo Dev Front-end Junior no **SAS PLATAFORMA DE EDUCAÇÃO 💙** ...
-- 🎓 MBA em Business Intelligence & Analytics, na **FIAP**
-- 🦄 Techs: React.js, React Native, Node.js, TypeScrippt, Redux, Saga, Jest, SASS/SCSS, Styled Components ...
-- 🌱 Aprendendo mais sobre **Test Driven Design, Clean Architecture, Design Patterns**.
-</p>
+```js
+    info: {
+    🎓  education: 'MBA Business Intelligence & Analytics',
+    🦄  techs: ['React.js', 
+          'React Native', 
+          'NextJS', 
+          'Node', 
+          'TypeScrippt', 
+          'Redux', 
+          'Context Api', 
+          'Jest', 
+          'Cypress', 
+          'GraphQL', 
+          'Apollo Client', 
+          'React Query', 
+          'SASS/SCSS', 
+          'Styled Components'],
+  🌱  learning: ['Test Driven Design', 
+        'Clean Architecture', 
+        'Design Patterns']
+    }
+```
+
 
 <p align="left">
-  💌 Para entrar em contato comigo: ⤵️
+  🌏 Where to find me: ⤵️
 </p>
 
 <p align="left">
