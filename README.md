@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" width="350px" align="right" alt="laptop">
 
 <p align="left"> 
-  My name is Hedênica and I'm a <strong>Frontend Software Engineer</strong>.<br>
+  My name is Hedênica and I'm a <strong>Frontend Software Engineer at Zé Delivery</strong>.<br>
   
 ```js
     info: {
